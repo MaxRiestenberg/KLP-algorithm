@@ -1,4 +1,4 @@
-# Checking the straight-and-spaced condition for Anosov representations
+# Certifying the Anosov property
 
 This Python code verifies that a specific surface subgroup of SL(3,R) is Anosov, based on the criteria in [R].
 
