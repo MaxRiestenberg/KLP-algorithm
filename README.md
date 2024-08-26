@@ -20,8 +20,11 @@ The code takes my about 35 minutes to run on my tablet.
 # References
 [HT23] Derek Holt and The GAP Team, kbmag, Knuth-Bendix on Monoids and Automatic Groups, Version 1.5.11 (2023)
 (Refereed GAP package), https://gap-packages.github.io/kbmag.
+
 [KLP14] Michael Kapovich, Bernhard Leeb, and Joan Porti, Morse actions of discrete groups on symmetric space, (2014).
+
 [KLP23] Michael Kapovich, Bernhard Leeb, and Joan Porti, Morse actions of discrete groups on symmetric spaces: Local-to-global principle, (2023).
+
 [R] J. Maxwell Riestenberg, Certifying Anosov representations, (2024).
 
 
