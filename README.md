@@ -13,7 +13,9 @@ You need a working version of Python.
 
 Before you can run the computation, you first need to generate the list of words of length 8 e.g. using KBMAG [HT23], save them as a file somewhere, and change a line in the code to access that file. The list of words is unfortunately too large to store here. You can also contact me for it.
 
-The code takes my about 37 minutes to run on my tablet.
+Note that the presentation is given by <a,b,c,d|acDbACdB=1>.
+
+The code takes my about 35 minutes to run on my tablet.
 
 # References
 [HT23] Derek Holt and The GAP Team, kbmag, Knuth-Bendix on Monoids and Automatic Groups, Version 1.5.11 (2023)
